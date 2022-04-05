@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_0.png">
 </p>
-<h1 align="center">CS523.M21.KHCL - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO</h1>
+<h1 align="center">Phân tích và thiết kế thuật toán - CS112.M21.KHCL</h1>
 
 # GIỚI THIỆU MÔN HỌC
-- **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
-- **Mã môn học:** CS523
-- **Mã lớp:** CS523.M21.KHCL
+- **Tên môn học:** PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
+- **Mã môn học:** CS112
+- **Mã lớp:** CS112.M21.KHCL
 - **Năm học:** HK2 (2021 - 2022)
 - **Giảng viên:** Ths. Nguyễn Thanh Sơn
 # GIỚI THIỆU NHÓM
