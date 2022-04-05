@@ -1,4 +1,7 @@
-![This is an image](https://www.uit.edu.vn/sites/vi/files/banner_uit_0.png)
+<p align="center">
+  <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_0.png">
+</p>
+
 # CS523.M21.KHCL - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
 # GIỚI THIỆU MÔN HỌC
 - **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
