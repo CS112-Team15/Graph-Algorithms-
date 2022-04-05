@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_0.png">
 </p>
+<h1 align="center">CS523.M21.KHCL - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO</h1>
 
-# CS523.M21.KHCL - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
 # GIỚI THIỆU MÔN HỌC
 - **Tên môn học:** CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO
-
 - **Mã môn học:** CS523
 - **Mã lớp:** CS523.M21.KHCL
 - **Năm học:** HK2 (2021 - 2022)
