@@ -21,3 +21,4 @@
 # CHỦ ĐỀ BÁO CÁO
 - **Số thứ tự chủ đề:** 12
 - **Tên chủ đề:** Vận dụng thiết kế thuật toán: Graph Algorithms
+- - **Slide:** https://drive.google.com/drive/folders/1XmYGNqiNh-_nsO4byM9IwE6snh8HkJMS?usp=sharing
